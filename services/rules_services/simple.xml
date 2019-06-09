@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shipment>
+  <rules>
+    <number>1</number>
+    
+    <description> Products are selling in ready stock. Normally you able to receive your parcel within 2 working days.</description>
+   
+  </rules>
+  <rules>
+    <number>2</number>
+    
+    <description>Most of products are real photo provided to minimize the differences between product and photo. If there is not real photo (using magazine or others photo as reference) it may occur 5-15% differences between product and photo.</description>
+   
+  </rules>
+  <rules>
+    <number>3</number>
+    
+    <description>We support 7 days return and exchange, please read RETURN POLICY for further information.</description>
+    
+  </rules>
+  <rules>
+    <number>4</number>
+   
+    <description>Order will only reserve for max 2 days without any deposit paid. If you would like to do any reservation for MAX 30 days, you may pay at least half of order amount as deposit and this deposit will not refund if the order exceed 30 days without pay the balance.</description>
+   
+  </rules>
+  <rules>
+    <number>5</number>
+   
+    <description>We will start our parcel packing at 10.30am daily (except Sunday). Your order able to send out on the same day if we received your payment before 3.00pm
+
+2. We may delay your order delivery without prior notice due</description>
+   
+  </rules>
+</shipment>
